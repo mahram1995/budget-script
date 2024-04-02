@@ -1,0 +1,14 @@
+CREATE OR REPLACE FUNCTION GET_DAILY_COST(PYEAR VARCHAR2, PMONTH VARCHAR2, PDAY VARCHAR2, PTYPE VARCHAR2) 
+RETURN number IS 
+   amount number(8) := 0; 
+BEGIN 
+SELECT nvl(sum(amount),0) into amount FROM budget_transaction D
+WHERE  substr(budget_month_year,1,4)=PYEAR
+AND  substr(budget_month_year,6,7)=PMONTH
+AND substr(D.transaction_date,9,10)=PDAY
+AND D.category =PTYPE
+and d.item_code<>129;
+
+   RETURN amount; 
+END; 
+/ 
