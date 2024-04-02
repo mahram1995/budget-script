@@ -1,0 +1,16 @@
+
+  CREATE OR REPLACE VIEW VIEW_YEAR_WISE_BUDGET_SUMMARY ("YEAR", "JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC") AS 
+  select year,
+GET_MONTHLY_COST(year , '01') as JAN,  
+GET_MONTHLY_COST(year , '02') as FEB, 
+GET_MONTHLY_COST(year , '03') as MAR,
+GET_MONTHLY_COST(year , '04') as APR,
+GET_MONTHLY_COST(year , '05') as MAY,
+GET_MONTHLY_COST(year , '06') as JUN,
+GET_MONTHLY_COST(year , '07') as JUL,
+GET_MONTHLY_COST(year , '08') as AUG, 
+GET_MONTHLY_COST(year , '09') as SEP, 
+GET_MONTHLY_COST(year , '10') as OCT,
+GET_MONTHLY_COST(year , '11') as NOV,
+GET_MONTHLY_COST(year , '12') as DEC
+FROM(SELECT  DISTINCT(substr(budget_month_year,1,4)) as  year FROM budget_data);
