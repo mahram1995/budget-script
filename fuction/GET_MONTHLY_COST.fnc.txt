@@ -1,13 +1,13 @@
 create or replace NONEDITIONABLE FUNCTION GET_MONTHLY_COST (year NUMBER, month NUMBER)
 RETURN number IS 
-   total number(6) := 0; 
+   amount number(6) := 0; 
 BEGIN 
-  select  NVL(SUM(B.actual_cost),0) into total
+  select  NVL(SUM(B.actual_cost),0) into amount
 from budget_data B WHERE  substr(budget_month_year,1,4)=year
-and  substr(budget_month_year,6,7)=month 
-AND B.category IN ('Expense')
+and  substr(budget_month_year,6,7)=nvl(month, substr(budget_month_year,6,7))
+AND B.category IN ('Expense', 'Asset')
 AND B.ITEM_CODE <>129;
 
 
-   RETURN total; 
+   RETURN amount; 
 END; 

@@ -1,0 +1,11 @@
+create or replace NONEDITIONABLE FUNCTION GET_ITEM_WISE_MONTHLY_TOTAL_TXN(PYEAR VARCHAR2, PMONTH VARCHAR2, PITEM_CODE VARCHAR2) 
+RETURN number IS 
+   amount number(8) := 0; 
+BEGIN 
+SELECT nvl(sum(amount),0) into amount  FROM budget_transaction D
+WHERE  substr(budget_month_year,1,4)=PYEAR
+AND  substr(budget_month_year,6,7)=PMONTH
+AND item_code=PITEM_CODE;
+
+   RETURN amount; 
+END; 

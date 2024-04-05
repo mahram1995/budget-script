@@ -1,0 +1,44 @@
+
+  CREATE OR REPLACE FORCE NONEDITIONABLE VIEW "HIMS"."VW_ITEM_WISE_DAILY_COST_OR_INCOME" ("NAME", "YEAR", "MONTH", "CATEGORY", "BUDGET", "D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8", "D9", "D10", "D11", "D12", "D13", "D14", "D15", "D16", "D17", "D18", "D19", "D20", "D21", "D22", "D23", "D24", "D25", "D26", "D27", "D28", "D29", "D30", "D31", "total") AS 
+  (select item_name name , year, month, category, budget,
+GET_ITEM_WISE_DAILY_COST(year,month,'01', item_code) d1,
+GET_ITEM_WISE_DAILY_COST(year,month,'02', item_code) d2,
+GET_ITEM_WISE_DAILY_COST(year,month,'03', item_code) d3,
+GET_ITEM_WISE_DAILY_COST(year,month,'04', item_code) d4,
+GET_ITEM_WISE_DAILY_COST(year,month,'05', item_code) d5,
+GET_ITEM_WISE_DAILY_COST(year,month,'06', item_code) d6,
+GET_ITEM_WISE_DAILY_COST(year,month,'07', item_code) d7,
+GET_ITEM_WISE_DAILY_COST(year,month,'08', item_code) d8,
+GET_ITEM_WISE_DAILY_COST(year,month,'09', item_code) d9,
+GET_ITEM_WISE_DAILY_COST(year,month,'10', item_code) d10,
+GET_ITEM_WISE_DAILY_COST(year,month,'11', item_code) d11,
+GET_ITEM_WISE_DAILY_COST(year,month,'12', item_code) d12,
+GET_ITEM_WISE_DAILY_COST(year,month,'13', item_code) d13,
+GET_ITEM_WISE_DAILY_COST(year,month,'14', item_code) d14,
+GET_ITEM_WISE_DAILY_COST(year,month,'15', item_code) d15,
+GET_ITEM_WISE_DAILY_COST(year,month,'16', item_code) d16,
+GET_ITEM_WISE_DAILY_COST(year,month,'17', item_code) d17,
+GET_ITEM_WISE_DAILY_COST(year,month,'18', item_code) d18,
+GET_ITEM_WISE_DAILY_COST(year,month,'19', item_code) d19,
+GET_ITEM_WISE_DAILY_COST(year,month,'20', item_code) d20,
+GET_ITEM_WISE_DAILY_COST(year,month,'21', item_code) d21,
+GET_ITEM_WISE_DAILY_COST(year,month,'22', item_code) d22,
+GET_ITEM_WISE_DAILY_COST(year,month,'23', item_code) d23,
+GET_ITEM_WISE_DAILY_COST(year,month,'24', item_code) d24,
+GET_ITEM_WISE_DAILY_COST(year,month,'25', item_code) d25,
+GET_ITEM_WISE_DAILY_COST(year,month,'26', item_code) d26,
+GET_ITEM_WISE_DAILY_COST(year,month,'27', item_code) d27,
+GET_ITEM_WISE_DAILY_COST(year,month,'28', item_code) d28,
+GET_ITEM_WISE_DAILY_COST(year,month,'29', item_code) d29,
+GET_ITEM_WISE_DAILY_COST(year,month,'30', item_code) d30,
+GET_ITEM_WISE_DAILY_COST(year,month,'31', item_code) d31,
+GET_ITEM_WISE_MONTHLY_TOTAL_TXN(year,month,item_code) total
+
+from(
+
+select d.item_code, d.item_name, category, budget_month_year as budget,
+ substr(budget_month_year,1,4) year,
+  substr(budget_month_year,6,7) month
+  
+from budget_data d));
+

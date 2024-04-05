@@ -1,0 +1,20 @@
+
+  CREATE OR REPLACE FORCE NONEDITIONABLE VIEW "HIMS"."BUDGET_SUMMARY" ("BUDGETEDMONTHYEAR", "BUDGETEDEXPENSE", "BUDGETEDINCOME", "BUDGETEDASSET", "BUDGETEDLIABILITY", "BUDGETEDDEBT", "ACTUALEXPENSE", "ACTUALINCOME", "ACTUALASSET", "ACTUALLIABILITY", "ACTUALDEBT") AS 
+  SELECT
+    budget AS   budgetedmonthyear,
+    get_category_wise_total(budget, 'Expense', 'BUDGETED') AS budgetedexpense,
+    get_category_wise_total(budget, 'Income', 'BUDGETED') AS budgetedIncome,
+    get_category_wise_total(budget, 'Asset', 'BUDGETED') AS budgetedAsset,
+    get_category_wise_total(budget, 'Liability', 'BUDGETED') AS budgetedLiability,
+    get_category_wise_total(budget, 'Debt', 'BUDGETED') AS budgetedDebt,
+    get_category_wise_total(budget, 'Expense', 'ACTUAL') AS actualExpense,
+    get_category_wise_total(budget, 'Income', 'ACTUAL') AS actualIncome,
+    get_category_wise_total(budget, 'Asset', 'ACTUAL') AS actualAsset,
+    get_category_wise_total(budget, 'Liability', 'ACTUAL') AS actualLiability,
+    get_category_wise_total(budget, 'Debt', 'ACTUAL') AS actualDebt
+FROM   (  
+                  SELECT DISTINCT( a.budget_month_year ) budget 
+                  FROM  budget_data  a
+                  )
+                  ORDER BY budget;
+

@@ -1,0 +1,14 @@
+create or replace NONEDITIONABLE FUNCTION GET_CATEGORY_WISE_TOTAL(PBUDGET_MONTH VARCHAR2, PCATEGORY VARCHAR2, PTYPE VARCHAR2) 
+RETURN number IS 
+   amount number(8) := 0; 
+BEGIN 
+
+    select
+      CASE WHEN PTYPE='BUDGETED' THEN  NVL(sum(EXPECTED_COST),0)
+      ELSE  NVL(sum(actual_cost),0)
+      END 
+         into amount from budget_data b 
+        where b.category=PCATEGORY and budget_month_year=PBUDGET_MONTH;
+
+   RETURN amount; 
+END; 
