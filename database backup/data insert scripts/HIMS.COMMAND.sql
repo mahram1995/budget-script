@@ -1,0 +1,8 @@
+SET DEFINE OFF;
+Insert into COMMAND
+   (COMMAND_CODE, COMMAND_NAME, IS_APPROVAL_FLOW_REQUIRED, IS_VISIBLE, MODULE_NAME, 
+    ACTIVITY_NAME, SERVICE_END_POINTS)
+ Values
+   (1, 'CREATE_FINANCIAL_INSTITUTION', 1, 1, 'ababil-admin', 
+    'Create Financial Institution', 'admin/bank/saveBank');
+COMMIT;

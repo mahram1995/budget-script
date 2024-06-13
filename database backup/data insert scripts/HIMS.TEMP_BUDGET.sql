@@ -1,0 +1,1398 @@
+SET DEFINE OFF;
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (304, '36', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (305, '41', '2024-03-10');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (306, '43', '2024-03-10');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (307, '42', '2024-03-10');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (308, '44', '2024-03-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (309, '61', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (310, '62', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (311, '66', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (312, '68', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (313, '71', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (314, '63', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (315, '64', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (316, '65', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (317, '67', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (318, '69', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (319, '70', '2024-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (320, '72', '2024-04-02');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (321, '73', '2024-04-02');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (322, '74', '2024-04-02');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (323, '76', '2024-04-02');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (324, '75', '2024-04-02');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (325, '77', '2024-04-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (326, '81', '2024-04-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (327, '82', '2024-04-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (328, '83', '2024-04-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (329, '85', '2024-04-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (330, '86', '2024-04-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (331, '101', '2024-05-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (332, '102', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (333, '103', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (334, '104', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (335, '105', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (336, '106', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (337, '107', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (338, '109', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (339, '110', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (340, '111', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (341, '112', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (342, '113', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (343, '114', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (344, '115', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (345, '108', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (346, '116', '2024-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (347, '117', '2024-05-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (348, '118', '2024-05-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (349, '119', '2024-05-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (1, '187', '2023-01-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (2, '188', '2023-01-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (3, '189', '2023-01-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (4, '190', '2023-01-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (5, '193', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (6, '195', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (7, '196', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (8, '197', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (9, '198', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (10, '199', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (11, '200', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (12, '201', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (13, '202', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (14, '203', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (15, '204', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (16, '205', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (17, '206', '2023-01-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (18, '207', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (19, '208', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (20, '210', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (21, '211', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (22, '212', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (23, '213', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (24, '214', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (25, '215', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (26, '216', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (27, '217', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (28, '218', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (29, '219', '2023-01-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (30, '220', '2023-02-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (31, '221', '2023-02-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (32, '222', '2023-02-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (33, '223', '2023-02-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (34, '224', '2023-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (35, '225', '2023-02-05');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (36, '226', '2023-02-05');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (37, '228', '2023-02-06');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (38, '229', '2023-02-13');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (39, '230', '2023-02-13');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (40, '231', '2023-02-13');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (41, '232', '2023-02-13');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (42, '233', '2023-02-13');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (43, '234', '2023-02-13');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (44, '235', '2023-02-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (45, '236', '2023-02-24');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (46, '237', '2023-02-27');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (47, '239', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (48, '240', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (49, '241', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (50, '242', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (51, '243', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (52, '244', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (53, '245', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (54, '246', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (55, '247', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (56, '248', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (57, '249', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (58, '250', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (59, '251', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (60, '252', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (61, '253', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (62, '254', '2023-02-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (63, '255', '2023-03-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (64, '256', '2023-03-06');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (65, '257', '2023-03-06');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (66, '281', '2023-03-21');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (67, '317', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (68, '318', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (69, '319', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (70, '320', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (71, '321', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (72, '322', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (73, '323', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (74, '324', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (75, '325', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (76, '326', '2023-03-30');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (77, '335', '2023-04-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (78, '336', '2023-04-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (79, '337', '2023-04-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (80, '385', '2023-04-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (81, '387', '2023-04-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (82, '463', '2023-04-11');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (83, '518', '2023-04-24');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (84, '522', '2023-04-24');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (85, '545', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (86, '547', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (87, '548', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (88, '549', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (89, '550', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (90, '551', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (91, '552', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (92, '553', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (93, '554', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (94, '555', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (95, '556', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (96, '557', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (97, '558', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (98, '559', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (99, '563', '2023-05-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (100, '574', '2023-05-05');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (101, '575', '2023-05-05');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (102, '607', '2023-05-17');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (103, '612', '2023-05-20');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (104, '620', '2023-05-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (105, '622', '2023-05-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (106, '625', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (107, '626', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (108, '627', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (109, '628', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (110, '629', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (111, '630', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (112, '631', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (113, '632', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (114, '633', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (115, '634', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (116, '635', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (117, '636', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (118, '637', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (119, '638', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (120, '639', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (121, '640', '2023-06-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (122, '648', '2023-06-06');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (123, '651', '2023-06-15');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (124, '654', '2023-06-15');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (125, '662', '2023-06-15');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (126, '700', '2023-06-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (127, '707', '2023-06-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (128, '708', '2023-06-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (129, '709', '2023-06-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (130, '710', '2023-06-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (131, '711', '2023-06-23');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (132, '715', '2023-06-25');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (133, '716', '2023-06-25');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (134, '720', '2023-06-25');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (135, '741', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (136, '742', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (137, '743', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (138, '744', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (139, '750', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (140, '752', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (141, '753', '2023-07-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (142, '768', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (143, '769', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (144, '770', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (145, '771', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (146, '772', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (147, '777', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (148, '792', '2023-07-07');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (149, '821', '2023-07-14');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (150, '849', '2023-07-24');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (151, '868', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (152, '869', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (153, '870', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (154, '871', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (155, '872', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (156, '873', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (157, '874', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (158, '875', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (159, '876', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (160, '877', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (161, '878', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (162, '879', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (163, '880', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (164, '881', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (165, '882', '2023-08-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (166, '903', '2023-08-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (167, '918', '2023-08-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (168, '924', '2023-08-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (169, '927', '2023-08-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (170, '979', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (171, '980', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (172, '981', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (173, '982', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (174, '983', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (175, '984', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (176, '985', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (177, '986', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (178, '987', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (179, '988', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (180, '989', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (181, '990', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (182, '991', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (183, '992', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (184, '993', '2023-09-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (185, '994', '2023-09-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (186, '1002', '2023-09-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (187, '1009', '2023-09-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (188, '1018', '2023-09-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (189, '1022', '2023-09-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (190, '1035', '2023-09-22');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (191, '1036', '2023-09-22');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (192, '1059', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (193, '1060', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (194, '1061', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (195, '1062', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (196, '1063', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (197, '1064', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (198, '1065', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (199, '1066', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (200, '1067', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (201, '1068', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (202, '1069', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (203, '1070', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (204, '1071', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (205, '1073', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (206, '1075', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (207, '1092', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (208, '1093', '2023-10-09');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (209, '1097', '2023-10-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (210, '1106', '2023-10-12');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (211, '1168', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (212, '1169', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (213, '1170', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (214, '1171', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (215, '1172', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (216, '1173', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (217, '1174', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (218, '1175', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (219, '1176', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (220, '1177', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (221, '1178', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (222, '1179', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (223, '1180', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (224, '1181', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (225, '1182', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (226, '1183', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (227, '1186', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (228, '1188', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (229, '1189', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (230, '1190', '2023-11-01');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (231, '1196', '2023-11-14');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (232, '1201', '2023-11-14');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (233, '1239', '2023-11-14');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (234, '1240', '2023-11-14');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (235, '1258', '2023-11-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (236, '1265', '2023-11-19');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (237, '1267', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (238, '1268', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (239, '1269', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (240, '1270', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (241, '1271', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (242, '1272', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (243, '1273', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (244, '1274', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (245, '1275', '2023-11-28');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (246, '1276', '2023-12-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (247, '1277', '2023-12-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (248, '1278', '2023-12-10');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (249, '1279', '2023-12-10');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (250, '1280', '2023-12-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (251, '1281', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (252, '1282', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (253, '1283', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (254, '1284', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (255, '1285', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (256, '1286', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (257, '1287', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (258, '1288', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (259, '1289', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (260, '1290', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (261, '1291', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (262, '1292', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (263, '1293', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (264, '1294', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (265, '1295', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (266, '1296', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (267, '1297', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (268, '1298', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (269, '1299', '2023-12-31');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (270, '1300', '2024-01-20');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (271, '1301', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (272, '1302', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (273, '1303', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (274, '1304', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (275, '1305', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (276, '1306', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (277, '1307', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (278, '1308', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (279, '1309', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (280, '1310', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (281, '1311', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (282, '1312', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (283, '1313', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (284, '1314', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (285, '1315', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (286, '1316', '2024-02-04');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (287, '1317', '2024-02-10');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (288, '1', '2024-02-18');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (289, '34', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (290, '21', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (291, '23', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (292, '26', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (293, '27', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (294, '28', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (295, '29', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (296, '30', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (297, '31', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (298, '32', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (299, '33', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (300, '22', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (301, '24', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (302, '25', '2024-03-03');
+Insert into TEMP_BUDGET
+   (BUDGET_ID, EXISTING_ID, CREATE_DATE)
+ Values
+   (303, '35', '2024-03-03');
+COMMIT;
