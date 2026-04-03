@@ -1,0 +1,16 @@
+Data base backup command
+
+oppen CMD
+
+run the flowing commad
+=> exp
+then enter and give DB user and Password
+
+then give a directory name whre database backup store and press enter key;
+
+for import full database 
+flowing the bwlow commad
+   
+   oppen CMD 
+   => imp
+   then login to the user and flow the instrunction.
